@@ -31,6 +31,7 @@ Each solution also contains the problem statement. Hopefully I will be able to u
 - Paint job
 - Palindrome 
 - Perfect number
+- Reverse Array
 - Shared digit 
 - The Dice
 - Zoo 

@@ -26,6 +26,7 @@ Each solution also contains the problem statement. Hopefully I will be able to u
 - Input calculator
 - Largest Prime
 - Last digit checker 
+- Minimum Element in Array
 - Number to words
 - Paint job
 - Palindrome 

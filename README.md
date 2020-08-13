@@ -21,6 +21,7 @@ Each solution also contains the problem statement. Hopefully I will be able to u
 - Diagonal star
 - Digit sum
 - Even digit sum
+- Final Destination 
 - First last digit sum
 - Greatest common divisor
 - Input calculator

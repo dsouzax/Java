@@ -23,6 +23,7 @@ Each solution also contains the problem statement. Hopefully I will be able to u
 - Even digit sum
 - Final Destination 
 - First last digit sum
+- Flight Cost Calculator
 - Greatest common divisor
 - Input calculator
 - Largest Prime

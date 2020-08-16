@@ -17,6 +17,7 @@ Each solution also contains the problem statement and the solution below. Hopefu
 - Sum Calculator
 - Wall Area
 - All factors
+- Arania Exumai
 - Array
 - Diagonal star
 - Digit sum

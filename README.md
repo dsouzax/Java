@@ -37,6 +37,7 @@ Each solution also contains the problem statement and the solution below. Hopefu
 - Reverse Array
 - Shared digit 
 - The Dice
+- Word Problem 
 - Zoo 
 - Leap year
 - Leap year with month

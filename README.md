@@ -19,6 +19,7 @@ Each solution also contains the problem statement and the solution below. Hopefu
 - All factors
 - Arania Exumai
 - Array
+- Birthday Party 
 - Diagonal star
 - Digit sum
 - Even digit sum
